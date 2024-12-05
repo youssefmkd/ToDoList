@@ -6,7 +6,7 @@ A simple and responsive to-do list application built with React and Vite. Users 
 - Delete tasks with a delete icon.
 - View the number of tasks remaining.
 2. Screenshot
-![image](https://github.com/user-attachments/assets/fa89a38e-c4c9-48b1-b919-9f97c343f300)
+![image](https://github.com/user-attachments/assets/b1341f2a-8252-4c14-850c-1472795b6776)
 3. Installation and Setup
 - Clone the repository:
    ```bash
